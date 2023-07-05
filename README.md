@@ -17,7 +17,7 @@ The Library Management System is a Java-based application that allows students a
 
 To run the Library Management System, follow these steps:
 
-1. Clone the repository: `[git clone https://github.com/your-username/library-management-system.git](https://github.com/saurabhdhumane/Library-Management-System.git)`
+1. Clone the repository: `https://github.com/saurabhdhumane/Library-Management-System.git`
 2. Open the project in your preferred Java IDE.
 3. Build and compile the project.
 4. Run the `Main` class to start the application.
